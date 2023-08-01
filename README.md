@@ -4,6 +4,14 @@
 
 Controls:
   <table>
+   <tr>
+    <th>
+     Key
+    </th>
+    <th>
+     Action
+    </th>
+   </tr>
     <tr>
       <td>Right Arrow Key</td>
       <td>Move Right</td>
